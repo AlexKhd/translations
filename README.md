@@ -1,1 +1,1 @@
-# translations
+text translations EN -> RU
